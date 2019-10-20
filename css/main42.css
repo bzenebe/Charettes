@@ -1,0 +1,103 @@
+html, body{
+	width: 100%;
+	height:100%;
+	background-color: black;
+	scroll-behavior: smooth;
+}
+
+.spin{
+	position:fixed;
+	width:30%;
+	height:30%;
+	top: 50%;
+	left:0%;
+	background-color: black;
+	border-radius: 50%;
+}
+.spin2{
+	position:fixed;
+	width:40%;
+	height:40%;
+	top: 0%;
+	left:0%;
+	background-color: orange;
+	border-radius: 50%;
+}
+
+.spin3{
+	position:fixed;
+	width:40%;
+	height:40%;
+	top: 70%;
+	left:60%;
+	background-color: white;
+	border-radius: 50%;
+	border: black;
+}
+.menu2 {
+ position: fixed;
+ width: 100%;
+ height: 10%;
+ background-color: none;
+ margin-bottom: 0px;
+ display: inline;
+ bottom: 0;
+ right: 30px;
+ text-align:right;
+
+}
+
+.number {
+ position: fixed;
+ width:100%;
+ height: 10%;
+ background-color: none;
+ margin-bottom: 0px;
+ top: 0px;
+ right: 30px;
+ text-align:right;
+}
+
+
+a {
+	font-size: 50px;
+	text-decoration: none;
+	color: white;
+  font-family: 'Hind Guntur', sans-serif;
+  text-align:center;
+  right: 20px;
+}
+
+
+p {
+	font-size: 200px;
+	text-decoration: none;
+	color: white;
+  font-family: 'Hind Guntur', sans-serif;
+  text-align:center;
+  right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

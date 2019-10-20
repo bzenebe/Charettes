@@ -1,0 +1,101 @@
+html, body{
+  width: 100%;
+  height:100%;
+
+}
+
+.skrollr-container{
+  width: 100%;
+  height:100%;
+  overflow:hidden;
+}
+
+.spin{
+	position:fixed;
+	width:50%;
+	height:100%;
+	border-radius: 50%;
+	top:50%;
+	left:0%;
+	border-style: solid;
+	 display: inline-block;
+	left: 25%;
+}
+
+
+a {
+  font-size: 50px;
+  text-decoration: none;
+  color: black;
+    font-family: 'Hind Guntur', sans-serif;
+    text-align:center;
+
+}
+
+.menu2 {
+ position: fixed;
+ width: 100%;
+ height: 10%;
+ background-color: none;
+ margin-bottom: 0px;
+ display: inline;
+ bottom: 0;
+  right: 30px;
+  text-align:right;
+
+}
+
+.number {
+ position: fixed;
+ width:100%;
+ height: 10%;
+ background-color: none;
+ margin-bottom: 0px;
+ display: fixed;
+ top: 0px;
+  right: 30px;
+  text-align:right;
+  float: right;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
